@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shristirajput/Leet_Codes/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shristirajput/Leet_Codes/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shristirajput/Leet_Codes/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/shristirajput/Leet_Codes/tree/master/0012-integer-to-roman) |
 ## Recursion
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/shristirajput/Leet_Codes/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/shristirajput/Leet_Codes/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/shristirajput/Leet_Codes/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/shristirajput/Leet_Codes/tree/master/0012-integer-to-roman) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shristirajput/Leet_Codes/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/shristirajput/Leet_Codes/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
