@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shristirajput/Leet_Codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shristirajput/Leet_Codes/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/shristirajput/Leet_Codes/tree/master/0014-longest-common-prefix) |
 ## Greedy
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shristirajput/Leet_Codes/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shristirajput/Leet_Codes/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shristirajput/Leet_Codes/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
